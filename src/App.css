@@ -30,11 +30,14 @@
   border-radius: 30%;
   border: none;
 }
-.pagination{
-  display: flex;
-  flex-wrap: wrap;
-  list-style: none;
-}
-.pageitem li{
-  border: 2px solid #b4345c;
+
+.button{
+  background-color: #b4345c;
+  border: none;
+  height: 20px;
+  width: 150px;
+  margin: auto;
+  border-radius: 20px;
+  color:#fff;
+  
 }
